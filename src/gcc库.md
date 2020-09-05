@@ -7,7 +7,7 @@
 
 ### 1、gcc工作流程
 
-![gcc工作流程](../pic/gcc工作流程.png)
+![gcc工作流程](../pic/gcc工作流程.dio.png)
 
 ### 2、gcc常用参数
 
